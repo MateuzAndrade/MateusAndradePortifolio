@@ -19,6 +19,7 @@
     @include('components.navbar')
     @include('components.display')
     @include('components.quem-sou-eu')
+    @include('components.experiencia-formacao')
     @include('components.footer')
 </body>
 
