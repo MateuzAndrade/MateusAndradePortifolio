@@ -114,11 +114,60 @@
             </div>
             <div class="timeline-end md:mb-10">
                 <time class="font-mono italic">2023.2</time>
-                <div class="text-lg font-black">Apple Watch</div>
-                The Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness
-                tracking, health-oriented capabilities, and wireless telecommunication, and integrates with
-                iOS and other Apple products and services
+                <div class="text-lg font-black">Transição de Carreira para Tecnologia - Suporte N1</div>
+                <div class="text-gray-500 dark:text-gray-400 ">
+                    Atuando nos serviços de Suporte N1 de Tecnologia no setor de Saúde.
+                </div>
+            </div>
+            <hr />
+
+        </li>
+        <li>
+            <hr />
+            <div class="timeline-middle">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-5 w-5">
+                    <path fill-rule="evenodd"
+                        d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                        clip-rule="evenodd" />
+                </svg>
+            </div>
+            <div class="timeline-start mb-10 md:text-end">
+                <time class="font-mono italic">2023.2 Até Hoje</time>
+                <div class="text-lg font-black">Promoção para Desenvolvedor</div>
+                <div class="text-gray-500 dark:text-gray-400 ">
+                    Após um período como Suporte N1, atráves de processo seletivo interno na mesma empresa, fui
+                    promovido para Desenvolvedor, atuando no Desenvolvimento de aplicações backend com Java (Spring
+                    Boot, JSF) e frontend ,Construção e manutenção de APIs RESTful para integração de sistemas, Criação
+                    de views, functions e procedures em PL/SQL,Participação em projetos internos, Manutenção de sistemas
+                    legado em sistemas internos da operadora, Desenvolvimento de relatórios no sistema TASY -
+                    Philips, Suporte no atendimento de atividades e manutenção do sistema TASY - Philips,
+                    Configuração/Manutenção de portais do TASY.
+                </div>
+            </div>
+            <hr />
+        </li>
+        <li>
+            <hr />
+            <div class="timeline-middle">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-5 w-5">
+                    <path fill-rule="evenodd"
+                        d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                        clip-rule="evenodd" />
+                </svg>
+            </div>
+            <div class="timeline-end md:mb-10">
+                <time class="font-mono italic">2025</time>
+                <div class="text-lg font-black">Formação em Análise e Desenvolvimento de Sistemas</div>
+                <div class="text-gray-500 dark:text-gray-400 ">
+                    Formação no curso de Análise e Desenvolvimento de Sistemas pela Uniasselvi.
+                </div>
             </div>
         </li>
+
+        <div class="text-center mb-12">
+            <h2 class="text-3xl md:text-4xl font-extrabold text-gray-500 dark:text-gray-400 mt-2">
+                Minha Jornada Continua ....
+            </h2>
+        </div>
     </ul>
 </section>

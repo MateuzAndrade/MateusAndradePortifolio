@@ -15,7 +15,7 @@
 </head>
 
 <body>
-    @include('components.em-construcao')
+    <!--@include('components.em-construcao') -->
     @include('components.navbar')
     @include('components.display')
     @include('components.quem-sou-eu')
